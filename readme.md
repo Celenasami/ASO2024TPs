@@ -7,3 +7,5 @@ El tiempo de ejecución del código con hilos es más rápido que el tiempo de e
  b) Comparar con un compañero el tiempo de ejecución. ¿Son iguales? 
 Los tiempos de ejecución de mi compañero y los míos son similares de siendo el código con hilos más rápido en su ejecución que el código sin hilos. 
 c) El símbolo “#” se utiliza para realizar comentarios en python, los comentarios son líneas de texto que no son ejecutadas por el intérprete de Python y se utilizan para explicar el propósito o el funcionamiento del código.
+
+<img src="./tp3/graficotp3.jpg"/>
