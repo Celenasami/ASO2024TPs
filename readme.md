@@ -14,7 +14,7 @@ Al sacar los # del codigo esas lineas comentadas hacian que el codigo durara mas
 
 
 Repositorio clonado y servicios corriendo
-<img src="\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\tp4\tp4ASO"/>
+<img src=".\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\tp4\tp4ASO"/>
 
 
 
