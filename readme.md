@@ -10,3 +10,11 @@ c) El símbolo “#” se utiliza para realizar comentarios en python, los comen
 Al sacar los # del codigo esas lineas comentadas hacian que el codigo durara mas tiempo porque tambien tenia que ejecutar esas lineas.
 
 <img src="./tp3/Procesos_hamburguesa.png"/>
+
+
+
+Repositorio clonado y servicios corriendo
+<img src="\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\tp4\tp4ASO"/>
+
+
+
