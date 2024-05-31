@@ -17,11 +17,11 @@ Repositorio clonado y servicios corriendo
 <img src=".\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\tp4\tp4ASO.png"/>
 
 Sitio  creados por  los servicios phpmyadmin
-<img src="\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\tp4\ASOPP.png"/>
-<img src="\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\tp4\ASOTP4s"/>
+<img src="\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\ASOPP.png"/>
+<img src="\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\ASOTP4s.png"/>
 
 Sitio de UTN clonado y corriendo en ubuntu
-<img src=".\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\tp4\pag_clon_utn.png"/>
+<img src="\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\pag_clon_utn.png"/>
 
 
 
