@@ -13,12 +13,3 @@ Al sacar los # del codigo esas lineas comentadas hacian que el codigo durara mas
 
 
 
-Repositorio clonado y servicios corriendo
-<img src=".\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\tp4\tp4ASO.PNG"/>
-
-Sitio  creados por  los servicios phpmyadmin
-<img src="\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\ASOPP.PNG"/>
-<img src="\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\ASOTP4s.PNG"/>
-
-Sitio de UTN clonado y corriendo en ubuntu
-<img src="\\wsl.localhost\Ubuntu-20.04\home\samanta\ASO2024TPs\pag_clon_utn.PNG"/>
