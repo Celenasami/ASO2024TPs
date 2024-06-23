@@ -37,8 +37,13 @@ echo "ingrese el primer numero"
 read numero1
 echo "ingrese el segundo numero distinto de 0" 
 read numero2
-let Dividir=numero1/numero2
-echo " El resultado de la Division es $Dividir";; 
+if [ $numero2 -eq 0 ]; then
+    echo "Error: No se puede dividir por 0."
+else
+   
+    let Dividir=numero1/numero2
+    echo " El resultado de la Division es $Dividir" 
+fi ;; 
 *) 
 echo "opcion invalida" ;;
 esac 
